@@ -1,5 +1,4 @@
-# WM_SupervisedML
-Supervised Machine Learning Project | Walmart - Predicting Weekly Sales
+# Supervised Machine Learning Project | Walmart - Predicting Weekly Sales
 
 Status: In development 🏗️
 
@@ -9,7 +8,8 @@ Part 2 - Baseline Model (Linear Regression)
 
 Part 3  - Overcoming Overfit
 
-Deployment: 
-Deliverables:
+Deliverables:  
+
+Will be available here soon.
 
 
